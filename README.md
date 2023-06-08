@@ -1,5 +1,5 @@
 # CoinListApp
-Dagger Hİlt, Coroutines, Navigation, Retrofit, MVVM, LiveData-OkHttp
+Dagger Hİlt, Coroutines, Navigation, Retrofit, MVVM, LiveData-OkHttp, Flow, Coil, williamchart
 
 
 
